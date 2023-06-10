@@ -1,0 +1,1 @@
+emcc -o demo2.html demo2.c -g -gsource-map --shell-file html_template/shell_minimal.html
